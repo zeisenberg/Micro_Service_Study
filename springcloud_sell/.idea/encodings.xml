@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/api-geteway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/order-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/order-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/order-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product/product-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product/product-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product/product-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/user-server" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
